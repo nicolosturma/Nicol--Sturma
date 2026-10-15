@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6d28d9&height=240&section=header&text=Nicol%C3%B2%20Sturma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Junior%20IT%20Support%20%26%20Systems%20Technician&descSize=20&descAlignY=58&animation=fadeIn" width="100%" />
 
-<a href="https://github.com/GITHUB_USERNAME">
+<a href="https://github.com/nicolosturma">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=IT+Support+%26+Systems+Technician;Networking+%7C+Windows+%7C+Linux+%7C+Virtualization;Cybersecurity+Learner+%E2%80%94+TryHackMe+%26+Google+Cybersecurity;Open+to+Help+Desk%2C+Sysadmin+%26+SOC+Roles" alt="Typing SVG" />
 </a>
 
@@ -18,16 +18,16 @@
 
 <br/><br/>
 
-<a href="https://PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://github.com/nicolosturma?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:nicolo.sturma@gmail.com"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/nicolosturma"><img src="https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=GITHUB_USERNAME&label=Profile%20Views&color=6d28d9&style=flat-square" />
-<img src="https://img.shields.io/github/followers/GITHUB_USERNAME?label=Followers&style=flat-square&color=4f46e5&labelColor=1e1b4b" />
-<img src="https://img.shields.io/github/stars/GITHUB_USERNAME/GITHUB_USERNAME?label=Stars&style=flat-square&color=7c3aed&labelColor=1e1b4b" />
+<img src="https://komarev.com/ghpvc/?username=nicolosturma&label=Profile%20Views&color=6d28d9&style=flat-square" />
+<img src="https://img.shields.io/github/followers/nicolosturma?label=Followers&style=flat-square&color=4f46e5&labelColor=1e1b4b" />
+<img src="https://img.shields.io/github/stars/nicolosturma/nicolosturma?label=Stars&style=flat-square&color=7c3aed&labelColor=1e1b4b" />
 
 </div>
 
@@ -117,7 +117,7 @@ Design of a complete corporate LAN architecture with VLAN segmentation and firew
 | **Performance** | Structured routing and switching design for segmented traffic |
 | **Security** | VLAN isolation and firewall-enforced security policies |
 | **Impact** | Practical foundation for network design, segmentation and policy configuration |
-| **Repository** | [github.com/GITHUB_USERNAME](https://github.com/GITHUB_USERNAME) |
+| **Repository** | [github.com/nicolosturma](https://github.com/nicolosturma) |
 
 The project covers the full design cycle: planning the addressing and segmentation scheme, configuring routing and switching, and applying security policies between network zones.
 
@@ -137,7 +137,7 @@ End-to-end development of an e-commerce website, from database design to the use
 | **Performance** | Relational schema designed for catalog and order data |
 | **Security** | User account management with authenticated access |
 | **Impact** | Complete full-stack delivery, from data model to interface |
-| **Repository** | [github.com/GITHUB_USERNAME](https://github.com/GITHUB_USERNAME) |
+| **Repository** | [github.com/nicolosturma](https://github.com/nicolosturma) |
 
 Implemented shopping cart logic, user management and product catalog, covering both the backend data layer and the frontend experience.
 
@@ -157,7 +157,7 @@ Native mobile application developed with Android Studio and Java, with a focus o
 | **Performance** | Tested on physical devices, not only emulators |
 | **Security** | Standard Android application sandboxing |
 | **Impact** | Hands-on experience with the complete mobile development lifecycle |
-| **Repository** | [github.com/GITHUB_USERNAME](https://github.com/GITHUB_USERNAME) |
+| **Repository** | [github.com/nicolosturma](https://github.com/nicolosturma) |
 
 Covered UI design, application logic and device testing to verify behavior in real conditions.
 
@@ -246,9 +246,9 @@ Diploma di Perito Informatico e Telecomunicazioni, with a technical curriculum i
 
 <div align="center">
 
-<a href="https://tryhackme.com/p/TRYHACKME_USERNAME"><img src="https://img.shields.io/badge/TryHackMe-Cybersecurity%20Labs-6d28d9?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=1e1b4b" /></a>
-<a href="https://www.coursera.org/user/COURSERA_ID"><img src="https://img.shields.io/badge/Coursera-Google%20Cybersecurity-4f46e5?style=for-the-badge&logo=coursera&logoColor=white&labelColor=1e1b4b" /></a>
-<a href="https://github.com/GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Projects%20%26%20Code-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b" /></a>
+<a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-Cybersecurity%20Labs-6d28d9?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=1e1b4b" /></a>
+<a href="https://www.coursera.org"><img src="https://img.shields.io/badge/Coursera-Google%20Cybersecurity-4f46e5?style=for-the-badge&logo=coursera&logoColor=white&labelColor=1e1b4b" /></a>
+<a href="https://github.com/nicolosturma"><img src="https://img.shields.io/badge/GitHub-Projects%20%26%20Code-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b" /></a>
 
 </div>
 
@@ -258,12 +258,12 @@ Diploma di Perito Informatico e Telecomunicazioni, with a technical curriculum i
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd&ring_color=7c3aed" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_USERNAME&theme=radical&hide_border=true&background=0d1117&ring=7c3aed&fire=8b5cf6&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=c4b5fd&sideNums=c4b5fd&dates=6d28d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nicolosturma&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd&ring_color=7c3aed" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolosturma&theme=radical&hide_border=true&background=0d1117&ring=7c3aed&fire=8b5cf6&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=c4b5fd&sideNums=c4b5fd&dates=6d28d9" />
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolosturma&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd" />
 
 </div>
 
@@ -273,7 +273,7 @@ Diploma di Perito Informatico e Telecomunicazioni, with a technical curriculum i
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GITHUB_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=nicolosturma&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
 
 </div>
 
@@ -283,7 +283,7 @@ Diploma di Perito Informatico e Telecomunicazioni, with a technical curriculum i
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GITHUB_USERNAME&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=6d28d9&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolosturma&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=6d28d9&hide_border=true" width="100%" />
 
 </div>
 
@@ -293,7 +293,7 @@ Diploma di Perito Informatico e Telecomunicazioni, with a technical curriculum i
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_USERNAME/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
+<img src="https://raw.githubusercontent.com/nicolosturma/nicolosturma/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
 
 </div>
 
@@ -332,8 +332,8 @@ Open To:
 
 <a href="mailto:nicolo.sturma@gmail.com"><img src="https://img.shields.io/badge/Gmail-nicolo.sturma@gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b" /></a>
 <a href="https://www.linkedin.com/in/LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Nicol%C3%B2%20Sturma-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b" /></a>
-<a href="https://github.com/GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-GITHUB__USERNAME-6d28d9?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b" /></a>
-<a href="https://PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-312e81?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1e1b4b" /></a>
+<a href="https://github.com/nicolosturma"><img src="https://img.shields.io/badge/GitHub-nicolosturma-6d28d9?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b" /></a>
+<a href="https://github.com/nicolosturma?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-Visit-312e81?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1e1b4b" /></a>
 
 </div>
 
