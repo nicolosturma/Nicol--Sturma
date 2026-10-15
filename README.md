@@ -1,228 +1,348 @@
-# Nicol--Sturma
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=250&section=header&text=Senior%20Software%20Engineer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Scalable%20Systems%20%26%20Intelligent%20Solutions&descAlignY=60&descAlign=50" alt="Header" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer;AI+%26+Machine+Learning+Specialist;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6d28d9&height=240&section=header&text=Nicol%C3%B2%20Sturma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Junior%20IT%20Support%20%26%20Systems%20Technician&descSize=20&descAlignY=58&animation=fadeIn" width="100%" />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Computer_Science-8A2BE2?style=for-the-badge&logo=graduationcap&logoColor=white" alt="Degree" />
-  <img src="https://img.shields.io/badge/M.S.-Artificial_Intelligence-4B0082?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Degree" />
-  <img src="https://img.shields.io/badge/Location-Global-9370DB?style=for-the-badge&logo=mapbox&logoColor=white" alt="Location" />
-</div>
+<a href="https://github.com/GITHUB_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=IT+Support+%26+Systems+Technician;Networking+%7C+Windows+%7C+Linux+%7C+Virtualization;Cybersecurity+Learner+%E2%80%94+TryHackMe+%26+Google+Cybersecurity;Open+to+Help+Desk%2C+Sysadmin+%26+SOC+Roles" alt="Typing SVG" />
+</a>
 
-<div align="center">
-  <a href="https://portfolio.com"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/username"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</div>
+<br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=username&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
-  <img src="https://img.shields.io/github/followers/username?color=4B0082&style=for-the-badge&logo=github&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/username?color=9370DB&style=for-the-badge&logo=github&label=Stars" alt="Stars" />
-</div>
+<img src="https://img.shields.io/badge/Perito%20Informatico-ITIS%20Raimondo%20D'Aronco-6d28d9?style=for-the-badge&labelColor=1e1b4b" />
+<img src="https://img.shields.io/badge/English-B1%20Certified-4f46e5?style=for-the-badge&labelColor=1e1b4b" />
+<img src="https://img.shields.io/badge/Google%20Cybersecurity-In%20Progress-7c3aed?style=for-the-badge&labelColor=1e1b4b" />
 
----
+<br/>
 
-### About Me
+<img src="https://img.shields.io/badge/Spilimbergo%2C%20Friuli%20Venezia%20Giulia-Italy-312e81?style=flat-square&logo=googlemaps&logoColor=white" />
 
-I am a Senior Software Engineer and AI Specialist with a strong foundation in building scalable, high-performance distributed systems. My expertise spans across the full software development lifecycle, from architecting robust backend microservices to designing intuitive, responsive frontend interfaces. 
+<br/><br/>
 
-With a deep focus on Artificial Intelligence and Machine Learning, I leverage data-driven approaches to solve complex engineering challenges, optimizing system performance and delivering intelligent product features. I possess a strong product engineering mindset, ensuring that technical implementations align seamlessly with business objectives and user needs.
+<a href="https://PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:nicolo.sturma@gmail.com"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-**Open To:** Senior Software Engineering Roles, AI/ML Engineering Leadership, and Technical Architecture opportunities.
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=GITHUB_USERNAME&label=Profile%20Views&color=6d28d9&style=flat-square" />
+<img src="https://img.shields.io/github/followers/GITHUB_USERNAME?label=Followers&style=flat-square&color=4f46e5&labelColor=1e1b4b" />
+<img src="https://img.shields.io/github/stars/GITHUB_USERNAME/GITHUB_USERNAME?label=Stars&style=flat-square&color=7c3aed&labelColor=1e1b4b" />
 
-### Tech Stack
-
-<div align="center">
-  <h4>Languages</h4>
-  <img src="https://skillicons.dev/icons?i=py,java,go,ts,cpp,rust&theme=dark" alt="Languages" />
-  
-  <h4>Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,html,css&theme=dark" alt="Frontend" />
-  
-  <h4>Backend & Databases</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,fastapi,postgres,mysql,mongodb,redis,graphql&theme=dark" alt="Backend" />
-  
-  <h4>Cloud, DevOps & Tooling</h4>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,k8s,terraform,jenkins,githubactions,linux&theme=dark" alt="DevOps" />
 </div>
 
 ---
 
-### AI / ML Expertise
+## About
 
-<div align="center">
+I'm a **Perito Informatico** (IT & Telecommunications diploma) focused on **IT support, systems administration and network security**. My hands-on experience covers **LAN design, Windows and Linux systems, and virtualization** with VirtualBox and VMware, built through configuration projects and test environments.
+
+I approach every problem with structured troubleshooting: isolate, reproduce, document, resolve. Beyond infrastructure, I build full-stack and mobile software (PHP/MySQL, Java/Android), which gives me a product-minded view of how users actually interact with systems.
+
+I'm currently deepening my security skills through the **Google Cybersecurity Professional Certificate** and **TryHackMe**.
+
+**Open To**
+
+- Junior IT Support / Help Desk
+- Systems Administration
+- SOC / Cybersecurity (entry level)
+- Internship, apprenticeship, fixed-term or permanent contracts
+- Immediate availability — own car, available for travel within Friuli Venezia Giulia
+
+---
+
+## Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,c,php,js&theme=dark" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+</p>
+
+**Backend & Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,mysql,java&theme=dark" />
+</p>
+
+**Systems, Networking & Tooling**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows,bash,git,github,vscode,androidstudio&theme=dark" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/VirtualBox-6d28d9?style=flat-square&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-4f46e5?style=flat-square&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-7c3aed?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-312e81?style=flat-square&logo=cisco&logoColor=white" />
+</p>
+
+---
+
+## Networking & Security Expertise
 
 | Domain | Proficiency | Details |
-| :--- | :---: | :--- |
-| **Deep Learning** | Advanced | CNNs, RNNs, Transformers, PyTorch, TensorFlow |
-| **Natural Language Processing** | Advanced | LLMs, RAG, BERT, Hugging Face, LangChain |
-| **Computer Vision** | Intermediate | Object Detection, Image Segmentation, OpenCV |
-| **MLOps & Deployment** | Advanced | Model Serving, Kubeflow, MLflow, ONNX, TensorRT |
-| **Data Engineering** | Advanced | ETL Pipelines, Spark, Airflow, Data Modeling |
-
-</div>
+|:--|:--|:--|
+| **Networking** | Intermediate | TCP/IP, VLAN segmentation, routing, switching, LAN architecture |
+| **Network Security** | Intermediate | Firewall configuration, security policies, traffic analysis with Wireshark |
+| **Operating Systems** | Intermediate | Windows and Linux administration, user support, troubleshooting |
+| **Virtualization** | Intermediate | Test lab environments with VirtualBox and VMware |
+| **Cryptography** | Foundational | Core concepts applied in network security coursework |
+| **Vulnerability Assessment** | Foundational | Basic assessment methodology; ongoing practice on TryHackMe |
+| **Databases** | Intermediate | MySQL, relational design and management, SQL |
+| **Programming** | Intermediate | Python, Java, C, SQL, PHP |
 
 ---
 
-### Featured Projects
+## Featured Projects
 
 <details>
-<summary><b>Intelligent Distributed Task Orchestrator</b></summary>
+<summary><b>Simulated Corporate Network</b> &nbsp;·&nbsp; 2023</summary>
 
-A highly scalable, fault-tolerant distributed task orchestration engine designed to manage millions of concurrent microservice workflows. Integrated an AI-based predictive scaling module to optimize resource allocation dynamically.
+<br/>
 
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Go, gRPC, Redis, K8s | 10M+ tasks/day | < 50ms latency | mTLS, OAuth2 | 40% cost reduction | [View Code](#) |
+Design of a complete corporate LAN architecture with VLAN segmentation and firewall protection, built and validated in a simulated environment.
 
-**Professional Explanation:**
-Architected the core event-driven messaging system utilizing Go and Redis Streams, ensuring zero data loss during peak loads. Implemented a custom predictive scaling algorithm using time-series forecasting, which reduced cloud infrastructure costs by 40% while maintaining 99.99% uptime. Enforced strict security protocols including mutual TLS for all internal service communication.
+| | |
+|:--|:--|
+| **Stack** | Cisco Packet Tracer, VLAN, Routing, Switching, Firewall |
+| **Scale** | Multi-segment corporate LAN topology |
+| **Performance** | Structured routing and switching design for segmented traffic |
+| **Security** | VLAN isolation and firewall-enforced security policies |
+| **Impact** | Practical foundation for network design, segmentation and policy configuration |
+| **Repository** | [github.com/GITHUB_USERNAME](https://github.com/GITHUB_USERNAME) |
+
+The project covers the full design cycle: planning the addressing and segmentation scheme, configuring routing and switching, and applying security policies between network zones.
 
 </details>
 
 <details>
-<summary><b>Enterprise RAG Knowledge Assistant</b></summary>
+<summary><b>E-Commerce Web Platform</b> &nbsp;·&nbsp; 2023 – 2024</summary>
 
-A production-grade Retrieval-Augmented Generation (RAG) system that processes and queries proprietary enterprise documents, providing highly accurate, context-aware responses for internal teams.
+<br/>
 
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, LlamaIndex, Pinecone, FastAPI | 500K+ docs | < 2s response | RBAC, AES-256 | 60% faster onboarding | [View Code](#) |
+End-to-end development of an e-commerce website, from database design to the user-facing storefront.
 
-**Professional Explanation:**
-Developed a sophisticated ingestion pipeline using LlamaIndex and custom chunking strategies to preserve document context. Integrated with Pinecone for high-dimensional vector search and deployed an optimized LLM inference endpoint. Implemented Role-Based Access Control (RBAC) to ensure data isolation and compliance with enterprise security standards, significantly accelerating internal knowledge retrieval.
+| | |
+|:--|:--|
+| **Stack** | HTML5, CSS3, PHP, MySQL |
+| **Scale** | Full platform: catalog, cart and user management |
+| **Performance** | Relational schema designed for catalog and order data |
+| **Security** | User account management with authenticated access |
+| **Impact** | Complete full-stack delivery, from data model to interface |
+| **Repository** | [github.com/GITHUB_USERNAME](https://github.com/GITHUB_USERNAME) |
+
+Implemented shopping cart logic, user management and product catalog, covering both the backend data layer and the frontend experience.
+
+</details>
+
+<details>
+<summary><b>Native Android Application</b> &nbsp;·&nbsp; 2023 – 2024</summary>
+
+<br/>
+
+Native mobile application developed with Android Studio and Java, with a focus on clear interface design and real-device validation.
+
+| | |
+|:--|:--|
+| **Stack** | Java, Android Studio |
+| **Scale** | Native Android application |
+| **Performance** | Tested on physical devices, not only emulators |
+| **Security** | Standard Android application sandboxing |
+| **Impact** | Hands-on experience with the complete mobile development lifecycle |
+| **Repository** | [github.com/GITHUB_USERNAME](https://github.com/GITHUB_USERNAME) |
+
+Covered UI design, application logic and device testing to verify behavior in real conditions.
 
 </details>
 
 ---
 
-### Experience
+## Experience
 
-**Senior Software Engineer** | *TechCorp Global*
-*Jan 2022 - Present*
+<details open>
+<summary><b>Event Organizer</b> &nbsp;·&nbsp; Football Tournament &nbsp;·&nbsp; <i>2026</i></summary>
 
-Leading the backend architecture and AI integration for the core payments platform. Driving the transition from a monolithic architecture to event-driven microservices.
+<br/>
 
-*   Architected and deployed a high-throughput payment processing engine handling $50M+ in daily transactions with 99.99% availability.
-*   Spearheaded the integration of machine learning models for real-time fraud detection, reducing false positives by 35%.
-*   Mentored a team of 5 junior engineers, establishing code review standards and CI/CD best practices.
-*   Optimized database queries and implemented caching strategies, reducing API response times by 60%.
+Planned and ran a football tournament, coordinating people, schedules and logistics under real-time constraints.
 
-`Go` `Kubernetes` `AWS` `PostgreSQL` `Machine Learning` `gRPC`
+**Scope of work**
 
-**Software Engineer** | *Innovate Solutions*
-*Jun 2019 - Dec 2021*
+- Managed an event with **300+ participants**
+- Coordinated **20+ teams**
+- Planned schedules and resources in advance
+- Handled unexpected issues live, with fast problem solving
+- Communicated with participants and organizers throughout
 
-Full-stack development for a SaaS analytics platform. Focused on building scalable APIs and responsive user interfaces.
+`Problem Solving` `Teamwork` `Communication` `Stress Management` `Planning`
 
-*   Developed RESTful APIs and GraphQL endpoints serving over 100,000 daily active users.
-*   Built a real-time data visualization dashboard using React and D3.js, improving client data interpretation.
-*   Automated infrastructure provisioning using Terraform, reducing deployment time from hours to minutes.
+</details>
 
-`Node.js` `React` `GraphQL` `Terraform` `MongoDB` `Docker`
+<details>
+<summary><b>Education</b> &nbsp;·&nbsp; ITIS Raimondo D'Aronco &nbsp;·&nbsp; <i>2019 – 2024</i></summary>
+
+<br/>
+
+Diploma di Perito Informatico e Telecomunicazioni, with a technical curriculum in networks, systems, programming and databases.
+
+**Scope of work**
+
+- Network design and configuration projects (VLAN, routing, switching, firewall)
+- Full-stack and mobile development projects
+- Windows and Linux environments, virtualized lab setups
+- English language certification, level B1
+
+`Networking` `Linux` `Windows` `Python` `Java` `C` `SQL` `Virtualization`
+
+</details>
 
 ---
 
-### Achievements
+## Achievements
 
 <div align="center">
 
 | Recognition | Details |
-| :--- | :--- |
-| **Engineering Excellence Award** | Recognized for architecting the core payments engine, resulting in a 40% reduction in operational costs. |
-| **AI Innovation Hackathon Winner** | Secured 1st place out of 200+ teams for developing an automated code-review AI assistant. |
-| **Top Open Source Contributor** | Ranked in the top 5% of global contributors for a major distributed systems framework. |
-| **Patent Pending** | Co-inventor on a patent for a novel predictive scaling algorithm for cloud microservices. |
+|:--|:--|
+| **Perito Informatico e Telecomunicazioni** | Technical diploma, ITIS Raimondo D'Aronco, 2019 – 2024 |
+| **English Language Certification B1** | Certified intermediate proficiency |
+| **Large-Scale Event Coordination** | Organized a tournament with 300+ participants and 20+ teams |
+| **Simulated Corporate Network** | Designed LAN architecture with VLANs, routing and firewall policies |
+| **Full-Stack E-Commerce Delivery** | Built a complete PHP/MySQL platform with cart, users and catalog |
 
 </div>
 
 ---
 
-### Certifications
+## Certifications & Training
+
+**Google**
+
+<img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional%20Certificate-In%20Progress-6d28d9?style=for-the-badge&logo=google&logoColor=white" />
+
+**Coursera**
+
+<img src="https://img.shields.io/badge/Coursera-Learning%20Platform-4f46e5?style=for-the-badge&logo=coursera&logoColor=white" />
+
+**TryHackMe**
+
+<img src="https://img.shields.io/badge/TryHackMe-Cybersecurity%20Path%20In%20Progress-7c3aed?style=for-the-badge&logo=tryhackme&logoColor=white" />
+
+**Language**
+
+<img src="https://img.shields.io/badge/English-B1-312e81?style=for-the-badge&logo=googletranslate&logoColor=white" />
+
+---
+
+## Learning Profiles
 
 <div align="center">
-  <h4>AWS</h4>
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Machine_Learning_Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  
-  <h4>Oracle</h4>
-  <img src="https://img.shields.io/badge/Oracle-Cloud_Infrastructure_Architect-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  
-  <h4>NPTEL</h4>
-  <img src="https://img.shields.io/badge/NPTEL-Deep_Learning-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPTEL-Cloud_Computing-4B0082?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  
-  <h4>Cisco</h4>
-  <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+
+<a href="https://tryhackme.com/p/TRYHACKME_USERNAME"><img src="https://img.shields.io/badge/TryHackMe-Cybersecurity%20Labs-6d28d9?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=1e1b4b" /></a>
+<a href="https://www.coursera.org/user/COURSERA_ID"><img src="https://img.shields.io/badge/Coursera-Google%20Cybersecurity-4f46e5?style=for-the-badge&logo=coursera&logoColor=white&labelColor=1e1b4b" /></a>
+<a href="https://github.com/GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Projects%20%26%20Code-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b" /></a>
+
 </div>
 
 ---
 
-### Coding Profiles
+## GitHub Analytics
 
 <div align="center">
-  <a href="https://leetcode.com/username"><img src="https://img.shields.io/badge/LeetCode-2000+ solved-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/username"><img src="https://img.shields.io/badge/GeeksforGeeks-Institute_Top_1-4B0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/username"><img src="https://img.shields.io/badge/HackerRank-5_Stars_Gold-9370DB?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/username"><img src="https://img.shields.io/badge/CodeChef-6_Star-0d1117?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd&ring_color=7c3aed" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_USERNAME&theme=radical&hide_border=true&background=0d1117&ring=7c3aed&fire=8b5cf6&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=c4b5fd&sideNums=c4b5fd&dates=6d28d9" />
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd" />
+
 </div>
 
 ---
 
-### GitHub Analytics
+## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&bg_color=0d1117,161b22&title_color=8A2BE2&text_color=c9d1d9&icon_color=8A2BE2&border_color=4B0082&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=username&theme=dark&background=0d1117&border=4B0082&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&bg_color=0d1117,161b22&title_color=8A2BE2&text_color=c9d1d9&border_color=4B0082&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=GITHUB_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+
 </div>
 
 ---
 
-### GitHub Trophies
+## Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=username&theme=tokyonight&no-frame=true&margin-w=15&title=Commits,Stars,Followers,Repositories,MultiLanguage,PullRequest" alt="Trophies" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GITHUB_USERNAME&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=6d28d9&hide_border=true" width="100%" />
+
 </div>
 
 ---
 
-### Contribution Activity
+## Contribution Snake
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=username&bg_color=0d1117&color=8A2BE2&line=4B0082&point=9370DB&area=true&hide_border=true" alt="Activity Graph" />
+
+<img src="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_USERNAME/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
+
 </div>
 
 ---
 
-### Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/username/username/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
-
----
-
-### Current Focus
+## Current Focus
 
 ```yaml
 Learning:
-  - Advanced Distributed Systems Design
-  - Rust for High-Performance Computing
+  - Google Cybersecurity Professional Certificate
+  - TryHackMe cybersecurity paths
+  - Network security and vulnerability assessment fundamentals
+
 Building:
-  - AI-driven Microservices Architecture
-  - Open Source Developer Tooling
+  - Hands-on lab environments with VirtualBox and VMware
+  - Network simulations with VLANs, routing and firewall policies
+  - A growing portfolio of networking and security projects
+
 Exploring:
-  - WebAssembly (Wasm) for Edge Computing
-  - Federated Learning Paradigms
+  - SOC workflows and traffic analysis with Wireshark
+  - Linux administration and automation with Python and Bash
+  - Security hardening best practices
+
 Open To:
-  - Senior/Staff Software Engineering Roles
-  - AI/ML Engineering Leadership
+  - Junior IT Support / Help Desk
+  - Systems Administration
+  - SOC / Cybersecurity entry-level roles
+  - Internship, apprenticeship, fixed-term and permanent contracts
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:nicolo.sturma@gmail.com"><img src="https://img.shields.io/badge/Gmail-nicolo.sturma@gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b" /></a>
+<a href="https://www.linkedin.com/in/LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Nicol%C3%B2%20Sturma-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b" /></a>
+<a href="https://github.com/GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-GITHUB__USERNAME-6d28d9?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b" /></a>
+<a href="https://PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-312e81?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1e1b4b" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+<i>Reliable systems start with careful troubleshooting and a security-first mindset.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:302b63,100:0f0c29&height=140&section=footer" width="100%" />
+
+</div>
